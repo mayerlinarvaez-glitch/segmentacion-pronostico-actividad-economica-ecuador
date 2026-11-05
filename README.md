@@ -10,7 +10,7 @@
 - Pablo Hernán Intriago Andrade
 
 **Universidad:** Universidad de Las Américas (UDLA)  
-**Docente:** Manuel Eugenio Morocho Caymcela  
+**Docente:** Manuel Eugenio Morocho Cayamcela  
 **Año:** 2026
 
 ---
